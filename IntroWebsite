@@ -1,32 +1,55 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <main>
 <style>
-	.thick-green-border {
-    border-color: green;
+	
+	h1
+	{
+		font-size: 40px;
+		font-family: Gotham;
+	}
+	
+	h2
+	{
+		font-family: Gotham;
+		font-size: 30px;
+	}
+	
+	h3
+	{
+		font-family: Gotham;
+		font-size: 20px;
+	}
+.thick-green-border {
+    border-color: darkgreen;
     border-width: 10px;
     border-style: solid;
   }
-	.align
 </style>
+
 <head>
-<meta charset="utf-8">
-<title>IntroWebsiteTS</title>
-<h1> Meet Our Team! </h1>
 
-<img src="https://c.tadst.com/gfx/750w/international-sloth-day.jpg">
+<center>
+<h1> Team Sloth <h1>
 
-<h2> Team Sloth! </h2>
+<a href="#"><img class="thick-green-border" src="https://c.tadst.com/gfx/750w/international-sloth-day.jpg"></a>
+
+<h2> Meet our team! </h2>
+	<h3>_________________________________________________________________________________</h3>
+		
+</center>
 </head>
-
+	
 <body>
-	<ul>
-    	<li>Joey</li>
-    	<li>Wendy</li>
-   		<li>Rebecca</li>
-		<li>Brandon</li>
-  	</ul>
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et scelerisque purus, et tristique felis. Donec id nunc sed tellus ornare semper in in metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec imperdiet condimentum leo eu posuere. Ut blandit hendrerit nulla, vel pharetra arcu ornare consequat. Nam porta nibh quis dui pretium, non porta ipsum aliquet. Nullam consequat diam gravida elit ultricies venenatis.</p>
+<h3>Wendy Hartford</h3>
+	<p>insert bio here</p>
+	
+<h3>Rebecca Wirick</h3>
+	<p>insert bio here</p>
+	
+<h3>Brandon Kealoha</h3>
+  <p>insert bio here</p>
+
 </body>
-</main>		
+</main>
 </html>
