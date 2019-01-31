@@ -2,8 +2,19 @@
 <html>
 <main>
 <style>
+	
+	h1
+	{
+		font-size: 40px;
+		font-family: Gotham;
+	}
+	
+	h2
+	{
+		font-family: Gotham;
+	}
 .thick-green-border {
-    border-color: green;
+    border-color: darkgreen;
     border-width: 10px;
     border-style: solid;
   }
@@ -12,15 +23,22 @@
 <head>
 
 <center>
-<h1> Meet Our Team <h1>
+<h1> Meet Our Team! <h1>
 
 <a href="#"><img class="thick-green-border" src="https://c.tadst.com/gfx/750w/international-sloth-day.jpg"></a>
 
-<h2> Team Sloth! </h2>
+<h2> Team Sloth </h2>
+	<h3>_________________________________________________________________________________</h3>
+		
 </center>
 </head>
+	
 <body>
-
+<h2>Wendy Hartford</h2>
+	<p>insert bio here</p>
+	
+<h2>Rebecca Wirick</h2>
+	<p>insert bio here</p>
 </body>
 </main>
 </html>
