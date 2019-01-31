@@ -1,4 +1,32 @@
-<header>
-<h1> Meet Our Team! <h1>
-</header>
+<!doctype html>
+<html>
+<main>
+<style>
+	.thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+  }
+	.align
+</style>
+<head>
+<meta charset="utf-8">
+<title>IntroWebsiteTS</title>
+<h1> Meet Our Team! </h1>
+
 <img src="https://c.tadst.com/gfx/750w/international-sloth-day.jpg">
+
+<h2> Team Sloth! </h2>
+</head>
+
+<body>
+	<ul>
+    	<li>Joey</li>
+    	<li>Wendy</li>
+   		<li>Rebecca</li>
+		<li>Brandon</li>
+  	</ul>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse et scelerisque purus, et tristique felis. Donec id nunc sed tellus ornare semper in in metus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec imperdiet condimentum leo eu posuere. Ut blandit hendrerit nulla, vel pharetra arcu ornare consequat. Nam porta nibh quis dui pretium, non porta ipsum aliquet. Nullam consequat diam gravida elit ultricies venenatis.</p>
+</body>
+</main>		
+</html>
