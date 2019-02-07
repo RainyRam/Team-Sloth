@@ -1,12 +1,20 @@
 /*stylesheet.css */
 @charset "utf-8";
 h1 {
-	font-size: 40px;
-	font-family: Gotham;
+	font-size: 52px;
+	font-family: 'Lobster', cursive;
 }
 h2 {
-	font-family: Gotham;
+	font-size: 32px;
+	font-family: 'Lobster', cursive;
 }
+h3 {
+	font-family: Gotham;
+	
+}
+p {
+	font-family: Gotham;	
+	}
 .thick-green-border {
 	border-color: darkgreen;
 	border-width: 10px;
@@ -47,15 +55,16 @@ body {
 }
 #bTitle {
 	text-align: center;
-	background: #EBE3BE;
+	background: #DFFFC9;
 	line-height: 55px;
 	border-bottom: #333300 double;
 	border-top: #333300 double;
+	border-radius: 20px;
 	color: black;
 }
 #wTitle {
 	text-align: center;
-	background: #EBE3BE;
+	background: #DFFFC9;
 	line-height: 55px;
 	border-bottom: #333300 double;
 	border-top: #333300 double;
@@ -63,7 +72,7 @@ body {
 }
 #jTitle {
 	text-align: center;
-	background: #EBE3BE;
+	background: #DFFFC9;
 	line-height: 55px;
 	border-bottom: #333300 double;
 	border-top: #333300 double;
@@ -71,7 +80,7 @@ body {
 }
 #rTitle {
 	text-align: center;
-	background: #EBE3BE;
+	background: #DFFFC9;
 	line-height: 55px;
 	border-bottom: #333300 double;
 	border-top: #333300 double;
